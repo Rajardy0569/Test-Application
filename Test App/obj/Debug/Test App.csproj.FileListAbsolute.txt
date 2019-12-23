@@ -1,0 +1,15 @@
+C:\Test App\Test App\bin\Debug\Test App.exe.config
+C:\Test App\Test App\bin\Debug\Test App.exe
+C:\Test App\Test App\bin\Debug\Test App.pdb
+C:\Test App\Test App\bin\Debug\Serilog.dll
+C:\Test App\Test App\bin\Debug\Serilog.Sinks.Console.dll
+C:\Test App\Test App\bin\Debug\Serilog.Sinks.File.dll
+C:\Test App\Test App\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\Test App\Test App\bin\Debug\Serilog.xml
+C:\Test App\Test App\bin\Debug\Serilog.Sinks.Console.xml
+C:\Test App\Test App\bin\Debug\Serilog.Sinks.File.xml
+C:\Test App\Test App\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\Test App\Test App\obj\Debug\Test App.csproj.CopyComplete
+C:\Test App\Test App\obj\Debug\Test App.exe
+C:\Test App\Test App\obj\Debug\Test App.pdb
+C:\Test App\Test App\obj\Debug\Test App.csprojAssemblyReference.cache
